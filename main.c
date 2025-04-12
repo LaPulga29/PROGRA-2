@@ -183,5 +183,6 @@ int main()
             printf("Opcion invalida.\n");
             break;
         }
-    } while (opc != 9);    return 0;
+    } while (opc != 9);    
+    return 0;
 }
