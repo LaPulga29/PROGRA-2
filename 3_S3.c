@@ -2,7 +2,7 @@
 #include <string.h>
 int main()
 {
-    int estudiantes, materias = 3, aprobados = 0, reprobados = 0, len = 0, val0, val1, opc;
+    int estudiantes, materias = 3, aprobados = 0, reprobados = 0, len = 0, val1, opc;
     int aux1 = 0, aux2 = 0, aux3 = 0;
     float calificaciones[30][3], suma = 0;
     char ests_nombres[30][30], mats_nombres[3][30];
